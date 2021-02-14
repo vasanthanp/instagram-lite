@@ -1,0 +1,23 @@
+.card-title h4 {
+  font-family: "Grand Hotel", cursive;
+}
+.login-container {
+  text-align: center;
+  margin: auto;
+  max-width: 380px;
+}
+
+.login-container {
+  margin-top: 50px;
+}
+.login-card button {
+  width: 100%;
+  margin: 20px 0;
+}
+.login-card input[type="text"]:focus {
+  border-bottom: 1px solid rgb(16, 100, 235) !important;
+  box-shadow: 0 1px 0 0 #000;
+}
+.signup-link {
+  padding: 10px;
+}
